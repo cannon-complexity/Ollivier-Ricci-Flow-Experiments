@@ -1,7 +1,7 @@
 # Ollivier-Ricci-Flow-Experiments
 Jupyter notebook for experiments which examined Ollivier Ricci flow for an Oxford research project. Written in the style of a PNAS research article. 
 
-This project received a distinction (grade 88/100), and was the best in the class (over 100 students took the class).
+This project received a distinction (grade 88/100), and scored highest in the class (which was taken by over 150 Oxford mathematicians and computer scientists).
 
 The PDF article can be found in this repository. 
 
