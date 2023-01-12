@@ -20,4 +20,6 @@ Here is a 1 min 30 secs demonstartion of Ollivier-Ricci flow on a network |(http
 
 Here is a talk which includes extensions of Ricci flow to neural networks in machine learning (https://www.youtube.com/watch?v=jZWKicMwodA).
 
-![My Image](karate_ricci.png)
+![Karate Club Ricci Flow](karate_ricci.png)
+
+![Ricci Curvature Classical Geometry](ricci_classical.png)
