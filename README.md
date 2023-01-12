@@ -19,3 +19,5 @@ The method of Ricci flow by Ni et al is well-explained in my article from its fi
 Here is a 1 min 30 secs demonstartion of Ollivier-Ricci flow on a network |(https://www.youtube.com/watch?v=QlENb_XlJ_8).
 
 Here is a talk which includes extensions of Ricci flow to neural networks in machine learning (https://www.youtube.com/watch?v=jZWKicMwodA).
+
+![My Image](my-image.jpg)
