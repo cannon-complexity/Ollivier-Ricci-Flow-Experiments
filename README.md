@@ -2,7 +2,7 @@
 Jupyter notebook for my experiments which examined Ollivier-Ricci flow (often just called Ricci flow if the context is clearly networks) for a
 research project whilst I was at the University of Oxford. The project is presented in the style of a PNAS research article. 
 
-My project received a distinction (grade 88/100), scored top of the class C5.4 Networks (which was taken by over 150 graduate-level Oxford mathematicians and computer scientists).
+My project received a distinction (grade 88/100), and scored top of the class C5.4 Networks (which was taken by over 150 graduate-level Oxford mathematicians and computer scientists).
 
 The PDF article and accopanying code can be found in this repository. 
 
